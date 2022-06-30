@@ -16,4 +16,4 @@ function getQuote() {
 }
 window.onload = getQuote
 dice.addEventListener("click", getQuote)
-dice.addEventListener("touchscreen", getQuote)
+dice.addEventListener("touchstart", getQuote)
