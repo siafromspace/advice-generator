@@ -64,10 +64,10 @@ main {
     cursor: pointer;
     box-shadow: 0rem 0rem 1rem var(--neonGreen);
 }
-.click-dice {
+.rotate {
     transition: all 0.5s;
 }
-.click-dice:active {
+.rotate:active {
     transform: rotate(360deg);
 }
 @media (max-width: 969px) {
