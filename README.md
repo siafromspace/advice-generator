@@ -24,13 +24,14 @@ Users should be able to:
 - Generate a new piece of advice by clicking the dice icon
 
 ### Screenshot
+![advice1](https://user-images.githubusercontent.com/101575004/176756361-07f43f3d-3320-4088-9549-952d90c614ea.png)
+![advice2](https://user-images.githubusercontent.com/101575004/176756532-6d6b71f2-62bf-4ff6-bf37-5a18808a2633.png)
 
-![](./screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution](https://github.com/siafromspace/advice-generator.git)
+- Live Site URL: [Live Site](https://advice-generator247.netlify.app/)
 
 ## My process
 
